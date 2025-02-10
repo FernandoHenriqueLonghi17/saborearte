@@ -2,6 +2,7 @@ Este projeto foi feito com o instuito de desenvolver um site que será utilizado
 
 As tecnologias utilizadas foram:  
 > JavaScript
+> Vue.js
 > Vitejs
 > React
 > TypeScript
