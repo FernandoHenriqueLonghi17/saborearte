@@ -5,6 +5,14 @@ O Sabor & Arte é um website elegante e moderno desenvolvido para proporcionar a
 
 ![saborearte preview](https://github.com/user-attachments/assets/16d7873d-4dc5-4947-8869-008f9764a47d)
 
+![saborearte preview](https://github.com/user-attachments/assets/00546b4c-9fff-49bc-9798-f9b64edfa662)
+
+![saborearte preview](https://github.com/user-attachments/assets/72a06d69-03a7-4c4a-96e7-4eadf6c82dec)
+
+![saborearte preview](https://github.com/user-attachments/assets/7a71ea13-dd43-4deb-95f9-750940c26d7e)
+
+![saborearte preview](https://github.com/user-attachments/assets/3d1f08e9-032a-49b2-a0b8-faa9357fdd9f)
+
 ## Funcionalidades Principais 🚀
 - **Sistema de Reservas Online**
   - Seleção de data e horário
